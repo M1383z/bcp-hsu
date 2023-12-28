@@ -330,9 +330,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>کوئرا</td>
     <td>
       کامل بودن یا نبودن (ساده)<br>
-      <a href='https://quera.org/problemset/282'>لینک سوال +</a>
+     <td></td> <a href='https://quera.org/problemset/282'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+     <a href='/src/2029/'>solved</a>
   </tr>
   <tr>
     <td>30</td>
